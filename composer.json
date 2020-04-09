@@ -1,5 +1,5 @@
 {
-    "name": "malahierba-lab/public-id",
+    "name": "benji/public-id",
     "description": "Easy id obfuscation for Laravel. Powered by hashids",
     "keywords": [
         "laravel",
@@ -24,7 +24,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Malahierba\\PublicId\\": "src/"
+            "benji\\PublicId\\": "src/"
         }
     }
 }
