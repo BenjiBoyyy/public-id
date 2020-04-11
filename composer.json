@@ -19,8 +19,7 @@
     ],
     "require": {
         "php": ">=5.5.18",
-        "laravel/framework": "7.*",
-        "hashids/hashids": "1.0.5"
+        "laravel/framework": "7.*"
     },
     "autoload": {
         "psr-4": {
